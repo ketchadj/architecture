@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<livres>
+		<livre>
+			<titles>
+				<title>Memoire Online - Conception et la réalisation d'une application de gestion du presse-papier de windows 7. - NOUMBO NGUETSOP Stephane Cedric MAKA MAKA Ebenezer
+				</title>
+			</titles>
+				
+				<urls>
+					<web-urls>
+						<url>https://www.memoireonline.com/01/19/10567/Conception-et-la-realisation-d-une-application-de-gestion-du-presse-papier-de-windows-7.html
+						</url>
+                   </web-urls>
+						
+			</urls>
+			
+		</livre>
+	</livres>
+
+<xml>
+	<articles>
+		<article>
+			<titles>
+				<title>Systèmes d’alarme : l'histoire depuis 1970 jusqu’à nos jours
+				</title>
+			</titles>
+			<urls>
+				<web-urls>
+					<url>http://blog.labelhabitation.com/systemes-dalarme-lhistoire-depuis-1970-jusqua-nos-jours/
+					</url>
+				</web-urls>
+				
+			</urls>
+			
+		</article>
+	</articles>
+
+<xml>
+	<livres>
+		<livre>
+			<titles>
+				<title>(1) Xavier Blanc Isabelle Mounier avec la contribution de Cédric Besse | Yannick Brice FAMBOU KAMDEM - Academia.edu
+				</title>
+       </titles>
+    <urls>
+       <web-urls>
+       <url>https://www.academia.edu/38870799/Xavier_Blanc_Isabelle_Mounier_avec_la_contribution_de_C%C3%A9dric_Besse</url>
+   </web-urls>
+</urls>
+
+   </livre>
+</livres>
+<xml>
+	<sites>
+		<site>
+			<titles>
+				<title>Vol de smartphones: comment fonctionne le gestionnaire d’appareils Android et comment le compléter?</title>
+			</titles>
+			
+			<urls>
+				<web-urls>
+					<url>https://www.frandroid.com/culture-tech/securite-applications/292577_vol-de-smartphone-fonctionne-gestionnaire-dappareils-android-completer</url>
+				</web-urls>
+			</urls>
+			
+		</site>
+	</sites>
+<xml>
+	<balises>
+		<balise>
+			<titles>
+				<title>Qu'est-ce qu'un cas d'utilisation dans la modélisation de cas d'utilisation UML ? - Cybermédiane
+				</title>
+			</titles>
+
+			<urls>
+				<web-urls>
+					<url>https://www.cybermedian.com/fr/what-is-a-use-case-in-uml-use-case-modeling/
+					</url>
+				</web-urls>
+			</urls>
+		</balise>
+	</balises>
+<xml>
+	<books>
+		<book>
+			<contributors>
+				<authors>
+					<author>Pascal Roques</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>UML 2 par la pratique - 5ème édition - Librairie Eyrolles</title>
+			</titles>
+			<urls>
+				<web-urls>
+					<url>https://www.eyrolles.com/Informatique/Livre/uml-2-par-la-pratique-9782212120141/
+					</url>
+				</web-urls>
+			</urls>
+			</book>
+	</books>
+<xml>
+	<articles>
+		<article>
+			<titles>
+				<title>Rakwin, l'antivol connecté pour les téléphones portables | Les Echos
+				</title>
+			</titles>
+			<urls>
+				<web-urls>
+					<url>https://www.lesechos.fr/pme-regions/innovateurs/rakwin-lantivol-connecte-pour-les-telephones-portables-1004384</url>
+				</web-urls>
+			</urls>
+		</article>
+	</articles>
+<xml>
+	<livres>
+		<livre>
+			<titles>
+				<title>UML 2 - de l'apprentissage à la pratique</title>
+			</titles>
+			<urls>
+				<web-urls>
+					<url>https://laurent-audibert.developpez.com/Cours-UML/
+					</url>
+				</web-urls>
+			</urls>
+		</livre>
+	</livres>
+<xml>
+	<articles>
+		<article>
+			<contributors>
+				<authors>
+					<author>olivier sigaud</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Introduction à la modélisation orientée objets avec UML</title>
+				<secondary-title>yumpu.com</secondary-title>
+			</titles>
+		<urls>
+			<web-urls>
+				<url>https://www.yumpu.com/fr/document/view/4407828/introduction-a-la-modelisation-orientee-objets-avec-uml</url></web-urls>
+			</urls>
+		</article>
+	</articles>
+<xml>
+	<sites>
+		<site>
+			<titles>
+			<title>Qu'est-ce que le langage UML (langage de modélisation unifié) ?</title>
+			<secondary-title>Lucidchart</secondary-title>
+		</titles>
+		<urls>
+			<web-urls>
+				<url>https://www.lucidchart.com/pages/fr/langage-uml</url></web-urls>
+			</urls>
+		</site>
+	</sites>
+	</xml>
+	</xml>
+	</xml>
+	</xml>
+	</xml>
+	</xml>
+	</xml>
+	</xml>
+	</xml>
+</xml>
